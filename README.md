@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0F2E,100:0A0A0A&height=250&section=header&text=Saba%20Ahmad&fontSize=55&fontColor=D4AF37&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Automation%20Builder%20%7C%20Problem%20Solver&descAlignY=55&descSize=17&descColor=E8C874" width="100%"/>
+  <img src="banner.png" width="100%"/>
 </p>
 
 <p align="center">
@@ -106,5 +106,6 @@ Reach out — always happy to talk shop about clean code and smart systems.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1A0F2E&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:1A0F2E&height=3&width=100%" width="100%"/>
 </p>
+<p align="center"><i>Thanks for stopping by ✨</i></p>
