@@ -100,10 +100,7 @@ I care about clean UI, reusable components, and turning repetitive manual work i
 
 <h3 align="center">🤝 Let's Connect</h3>
 
-<p align="center">
-Open to interesting collaborations, freelance builds, and automation-heavy projects.<br/>
-Reach out — always happy to talk shop about clean code and smart systems.
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0F2E,50:0A0A0A,100:1A0F2E&height=120&section=footer" width="100%"/>
