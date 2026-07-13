@@ -100,6 +100,8 @@ I care about clean UI, reusable components, and turning repetitive manual work i
 
 
 
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0F2E,50:0A0A0A,100:1A0F2E&height=120&section=footer" width="100%"/>
 </p>
