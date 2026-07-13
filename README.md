@@ -106,6 +106,5 @@ Reach out — always happy to talk shop about clean code and smart systems.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:1A0F2E&height=3&width=100%" width="100%"/>
+  <img src="footer.png" width="100%"/>
 </p>
-
