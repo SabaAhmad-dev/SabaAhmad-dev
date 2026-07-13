@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B7A6E,100:1E3A5F&height=220&section=header&text=Saba%20Ahmad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Automation%20Builder&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=220&section=header&text=Saba%20Ahmad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Automation%20Builder&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0B7A6E&center=true&vCenter=true&width=600&lines=Building+clean+web+experiences...;Automating+workflows+with+n8n...;React+%7C+Next.js+%7C+JavaScript+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=1E293B&center=true&vCenter=true&width=600&lines=Building+clean+web+experiences...;Automating+workflows+with+n8n...;React+%7C+Next.js+%7C+JavaScript+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0B7A6E?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-1E3A5F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0B7A6E?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
@@ -48,10 +48,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SabaAhmad-dev&show_icons=true&theme=default&hide_border=true&title_color=0B7A6E&icon_color=0B7A6E" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabaAhmad-dev&hide_border=true&background=FFFFFF&stroke=0B7A6E&ring=0B7A6E&fire=1E3A5F" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SabaAhmad-dev&show_icons=true&theme=default&hide_border=true&title_color=1E293B&icon_color=1E293B" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabaAhmad-dev&hide_border=true&background=FFFFFF&stroke=1E293B&ring=1E293B&fire=0F172A" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:0B7A6E&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=100&section=footer" width="100%"/>
 </p>
